@@ -1,0 +1,55 @@
+{
+  "_from": "textillate@^0.4.1",
+  "_id": "textillate@0.4.1",
+  "_inBundle": false,
+  "_integrity": "sha512-htUal0T4DsDLLtozLrRGe4snjmVj5eM/goAiBvcg8bK3VUvMMkN7xE0IhuawXNQm+6z0vrH3dIKNYJwyWssaEg==",
+  "_location": "/textillate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "textillate@^0.4.1",
+    "name": "textillate",
+    "escapedName": "textillate",
+    "rawSpec": "^0.4.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/textillate/-/textillate-0.4.1.tgz",
+  "_shasum": "543e7461ca58ce453546be668b27f79c502fb501",
+  "_spec": "textillate@^0.4.1",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "authors": [
+    "Jordan Schroter <jordan.schroter@gmail.com>"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "animate.css": ">= 3.0.0",
+    "jquery": ">= 1.6.2",
+    "letteringjs": ">= 0.6.1"
+  },
+  "deprecated": false,
+  "description": "A simple plugin for CSS3 text animations",
+  "homepage": "https://github.com/jschr/textillate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "textillate",
+    "css3",
+    "animation",
+    "text",
+    "lettering"
+  ],
+  "license": "MIT",
+  "main": "jquery.textillate.js",
+  "name": "textillate",
+  "version": "0.4.1"
+}
