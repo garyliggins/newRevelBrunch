@@ -1394,7 +1394,7 @@ form .inputs-description {
   height: 100%;
 }
 .logo img {
-  filter: invert();
+  
   display: block;
   width: 150px;
   position: relative;
