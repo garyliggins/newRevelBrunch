@@ -1366,7 +1366,7 @@ form .inputs-description {
 }
 @media only screen and (min-width: 768px) {
   .header {
-    height: 120px;
+    height: 220px;
   }
 }
 @media only screen and (min-width: 1200px) {
@@ -1396,14 +1396,20 @@ form .inputs-description {
 .logo img {
   
   display: block;
-  width: 150px;
+  width: 300px;
   position: relative;
-  top: 50%;
+  top: 70%;
   bottom: auto;
   -webkit-transform: translateY(-50%);
      -moz-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
+}
+
+@media only screen and (max-width: 500px) {
+  .logo img {
+    width: 200px;
+  }
 }
 
 .menu-button {
@@ -2974,8 +2980,8 @@ form .inputs-description {
   margin-bottom: 3.6rem;
 }
 .footer__logo img {
-  filter: invert();
-  width: 150px;
+  /* filter: invert(); */
+  width: 200px;
   margin: 0 auto;
 }
 
